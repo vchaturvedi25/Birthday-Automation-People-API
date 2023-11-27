@@ -12,7 +12,6 @@ global class sendBdayEmailBatch implements Database.Batchable<sObject>{
         for(Contact testCon: conList){
             List<String> toAddresses = new List<String>();
             toAddresses.add(testCon.Email);
-            toAddresses.add('vchaturvedi25@gmail.com');
             System.debug('toaddress is '+ toaddresses);
             Messaging.SingleEmailMessage mymail = new Messaging.SingleEmailMessage();
             mymail.setToAddresses(toAddresses);
