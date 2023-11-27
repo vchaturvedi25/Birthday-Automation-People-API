@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>birthdayWishScheduler</members>
+		<members>chatGPTCalloutBatch</members>
+		<members>chatGPTImageCalloutBatch</members>
+		<members>getGoogleContacts</members>
+		<members>getGoogleContactsScheduler</members>
+		<members>sendBdayEmailBatch</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>GoogleAPI</members>
+		<name>AuthProvider</name>
+	</types>
+	<types>
+		<members>ChatGPTKey</members>
+		<name>CustomLabel</name>
+	</types>
+	<types>
+		<members>GooglePeopleAPI</members>
+		<name>NamedCredential</name>
+	</types>
+	<version>58.0</version>
+</Package>
