@@ -12,13 +12,13 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Google API JSON</shortDescription>
-        <value>{&quot;web&quot;:{&quot;client_id&quot;:&quot;600818531164-cspu05siorjatvv68f10l59uk1b92gp4.apps.googleusercontent.com&quot;,&quot;project_id&quot;:&quot;salesforce-people-api&quot;,&quot;auth_uri&quot;:&quot;https://accounts.google.com/o/oauth2/auth&quot;,&quot;token_uri&quot;:&quot;https://oauth2.googleapis.com/token&quot;,&quot;auth_provider_x509_cert_url&quot;:&quot;https://www.googleapis.com/oauth2/v1/certs&quot;,&quot;client_secret&quot;:&quot;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&quot;}}</value>
+        <value>***********************</value>
     </labels>
     <labels>
         <fullName>PeopleAPIGroup</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Group Name of Google Contacts</shortDescription>
-        <value>3ce62aaa0f1dc831</value>
+        <value>************************</value>
     </labels>
 </CustomLabels>
