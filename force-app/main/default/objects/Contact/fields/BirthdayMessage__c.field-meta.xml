@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>BirthdayMessage__c</fullName>
+    <description>Birthday Message fetched from callout</description>
+    <externalId>false</externalId>
+    <label>BirthdayMessage</label>
+    <length>32768</length>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Html</type>
+    <visibleLines>40</visibleLines>
+</CustomField>
