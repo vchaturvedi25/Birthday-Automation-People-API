@@ -18,12 +18,24 @@
 		<name>CustomLabel</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>CustomMetadata</name>
+	</types>
+	<types>
 		<members>Contact</members>
+		<members>Google_API__mdt</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
 		<members>GooglePeopleAPI</members>
 		<name>NamedCredential</name>
+	</types>
+	<types>
+		<members>Google</members>
+		<members>Google_API_Token</members>
+		<members>Google_Authorization</members>
+		<members>Google_People_API</members>
+		<name>RemoteSiteSetting</name>
 	</types>
 	<version>58.0</version>
 </Package>
